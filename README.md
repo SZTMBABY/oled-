@@ -31,7 +31,7 @@ OLED 屏幕长时间显示同一个画面会烧屏——任务栏、桌面图标
 |------|------|
 | `OLED_BlackScreen.ps1` | 主程序，所有逻辑都在这里 |
 | `Start_OLED_BlackScreen.bat` | 命令行启动器，双击用这个 |
-| `Start_OLED_BlackScreen.vbs` | 静默启动器，不闪黑框，适合开机自启 |
+| `Start_OLED_BlackScreen.vbs` | 静默启动器，不闪黑框 |
 
 ## 环境要求
 
